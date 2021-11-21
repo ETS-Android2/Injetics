@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main.calculators.MaterialRequired">
+
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="@string/material_required_sub"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/heading"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/material_required_desc"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/desc"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="90dp"
+        android:text="Preferred unit:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/unit"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Quantity of parts required:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/partwg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quantity"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Part weight (grams):"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/cavity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/partwg"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Mold cavitation:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/runner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cavity"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Runner weight per shot:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/output"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/runner"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Output (kg):"
+        android:textSize="16sp" />
+
+    <ToggleButton
+        android:id="@+id/unitToggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/unit"
+        android:layout_alignBottom="@+id/unit"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:checked="true"
+        android:textOff="LBS"
+        android:textOn="KG" />
+
+    <EditText
+        android:id="@+id/quantEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/quantity"
+        android:layout_alignBottom="@+id/quantity"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/partwgEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/partwg"
+        android:layout_alignBottom="@+id/partwg"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/cavityEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cavity"
+        android:layout_alignBottom="@+id/cavity"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/runnerEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/runner"
+        android:layout_alignBottom="@+id/runner"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/outputResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/partwgEdit"
+        android:layout_alignLeft="@+id/partwgEdit"
+        android:layout_alignTop="@+id/output"
+        android:text=""
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/partwgEdit"
+        android:layout_alignLeft="@+id/partwgEdit"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:text="Calculate" />
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/partwgEdit"
+        android:layout_alignRight="@+id/partwgEdit"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:text="Reset" />
+</RelativeLayout>

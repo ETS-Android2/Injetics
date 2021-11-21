@@ -1,0 +1,676 @@
+<resources>
+    <string name="app_name">Injetics</string>
+    <string name="app_title">Injetics</string>
+
+    <!--list_item.xml values-->
+    <string name="title_placeholder">Title</string>
+    <string name="description_placeholder">Placeholder for description</string>
+
+    <!--Article text for pages-->
+    <string name="safety_title">Safety Rule Of Operation Of Injection Molding Machine</string>
+    <string name="safety_text">The injection molding machine is a kind of machine that is high-pressure, fast-acting, and has high-temperature operation at the same time. It often causes the operator to neglect for a moment, causing irreparable personal injury under the care of the mind, and regrets for life. Injection molding machines are dangerous in every operation, especially when opening and clamping.
+        \n\n
+        In order to avoid danger, the operator must pay attention to the following safety operation problems during operation:
+        \n\n
+        <b>1.</b> Keep the injection molding machine and its surrounding environment clean.\n\n
+        <b>2.</b> The space around the injection molding machine should be kept as smooth as possible. After adding lubricating oil or pressure oil, the leaked oil should be wiped out as soon as possible.\n\n
+        <b>3.</b> Clean the debris (such as rubber particles) on the melter cylinder before turning on the electric heat to avoid fire. If the machine is not overhauled or necessary, the heat shield on the melt cylinder shall not be removed at will.\n\n
+        <b>4.</b> Check if the emergency button is pressed or the safety door is opened during operation.\n\n
+        <b>5.</b> When the shooting table is moved forward, the molten rubber leaking from the nozzle should not be removed by hand to prevent the handle from being sandwiched between the shooting table and the mold.\n\n
+        <b>6.</b> When cleaning the barrel, adjust the temperature of the nozzle to the most appropriate high temperature to keep the nozzle clear. Then use the lower injection pressure and speed to remove the remaining rubber in the cylinder. Direct contact with the glue just shot to avoid burns.\n\n
+        <b>7.</b> Avoid leaving heat sensitive and corrosive plastics in the barrel for too long. Observe the shutdown and cleaning methods provided by the plastic supplier. When replacing plastics, make sure that the mixing of new and old plastics does not produce chemical reactions (for example, POM and PVC are mixed and heated to produce toxic gas), otherwise other plastics must be used to remove the old materials in the barrel.\n\n
+        <b>8.</b> Before operating the injection molding machine, it must be checked whether the mold is firmly installed on the movable platen and the head plate of the injection molding machine.\n\n
+        <b>9.</b> Pay attention to whether the ground wire and other wiring of the injection molding machine are connected securely.\n\n
+        <b>10.</b> Do not cancel the safety door or safety door switch in order to increase production speed.\n\n
+        <b>11.</b> When installing the mold, the lifting ring must be completely screwed into the mold lifting hole before lifting. After the mold is installed, the length of the safety rod of the injection molding machine should be adjusted according to the size of the mold. When the safety door is opened, the safety stop of the machine (mechanical lock) can block the mold clamping of the injection molding machine.\n\n
+        <b>12.</b> In the normal injection molding process, it is strictly forbidden for the operator to open the safety door without removing the safety door from above or below the injection molding machine. When servicing the mold or temporarily not producing it, the oil pump motor of the injection molding machine should be turned off in time.\n\n
+        <b>13.</b> When operating the injection molding machine, it can be operated by one person, and no multi-person operation is allowed. It is forbidden for one person to operate the control panel while another person adjusts the mold or performs other operations.\n\n
+    </string>
+    <string name="safety_credits">Article accessed from www.dayamachinery.com/safety-rule-of-operation-of-injection-molding-machine\n
+        Copyright 2008-2021 DAYA MACHINERY| All Rights Reserved</string>
+
+    <string name="cleanroom_title">What is a Cleanroom?</string>
+    <string name="cleanroom_text">A cleanroom is a controlled environment where pollutants like dust, airborne microbes, and aerosol particles are filtered out in order to provide the cleanest area possible. Most cleanrooms are used for manufacturing products such as electronics, pharmaceutical products, and medical equipment. A cleanroom can be classified into different levels of contamination depending on the amount of particles allowed in the space, per cubic meter. Cleanrooms also control variables like temperature, air flow, and humidity.\n\n
+        <b>How does it work?</b>\n\n
+        Essentially, cleanrooms work to remove pollutants, particles, and contaminants from outside ambient air. Outside air is first circulated to a filter system. The filters (either HEPA or ULPA) then clean and decontaminate this outside air according to their specifications. The filtered air is then forced into the cleanroom. Additionally, contaminated air within the cleanroom is forced outside the room by registers, or it is recirculated back into the filters, and the process restarts.\n\n
+        <b>Who needs a Cleanroom?</b>\n\n
+        There are a wide variety of reasons that a company may need a cleanroom. If you’re manufacturing something that is easily affected by contaminants or particles in the air for example, it’s likely that you’ll need a cleanroom. If you’re not sure, or if you’d like an estimate, give the experts at Angstrom a call. Here are a few common reasons you might need a cleanroom, and some common industries that regularly use cleanrooms:\n\n
+        &#8226;Manufacturing Companies\n
+        &#8226;Research Facilities\n
+        &#8226;Pharmaceutical Companies\n
+        &#8226;Medical Laboratories\n
+        &#8226;Electronic Part Production\n
+        &#8226;Aerospace Industry\n
+        &#8226;Nanotechnology production\n
+        &#8226;Optics and Lens Manufacturing\n
+        &#8226;Military Applications\n\n
+        <b>How do you keep a Cleanroom clean?</b>\n\n
+        It can be difficult to maintain the standards of a cleanroom. The rooms themselves can be touchy, and everything you bring into the r is likely to release particles into the air, even your employees. So, what are the best ways to keep your cleanroom up to the standards you so painstakingly maintained? Here’s a few basic concepts, and some helpful suggestions to maintaining the highest level of clean.\n\n
+        <i>Gowning</i>: First and foremost, anyone who enters the cleanroom has to be wearing protective clothing. Human beings are full of particles: our hair falls out, our skin flakes, and there’s no way to control it. That’s why it’s essential that anyone going into the cleanroom wear the prescribed protective clothing. Depending on your cleanroom’s class, this might just be a gown and gloves, or it could be a full head to toe “bunny suit” complete with a mask and goggles. You first have to define your standards, but then you should know exactly what your employees should be wearing into the cleanroom.\n\n
+        <i>Cleanroom Furniture</i>: Believe it or not, furniture gives off particles even when it’s just sitting there. That’s why special furniture is manufactured to lessen the particles and dust that fall and collect on furniture. It’s a good idea to invest in this type of furniture if you’re interested in keeping your cleanroom clean.\n\n
+        <i>Air Shower</i>: If you’re concerned with limiting the amount of particles brought into your cleanroom, you might consider investing in an air shower. Used in conjunction with the gowning room, it blows off any particles that could easily fall off people entering the cleanroom. It’s a great way to eliminate any extra particles before your employees enter the room.\n\n
+        <i>Sticky Flooring</i>: This is the best way to take care of foot-borne or wheel-borne contaminates. Better than sticky mats, sticky flooring is more durable, more effective, and can last for 3-5 years, if properly cleaned and taken care of. If your cleanroom has a high standard for cleanliness, this is a useful addition to your cleanroom.\n\n
+        <b>Proper gowning techniques</b>\n\n
+        The gowning process may seem like a hassle, but you spend a lot of money getting the cleanroom installed and maintained, so a few extra minutes gowning properly isn’t a big deal if you’re protecting that asset and keeping your cleanroom as clean as possible. But what, exactly, do you have to do to make sure you and your employees are following proper protocol and protecting the environment of the cleanroom? It starts with a standard procedure. It will be much simpler if everyone follows the exact same process and understands the different areas of the gowning space. Generally, most gowning spaces have a “getting dressed” area and a “cleaner” area. Make sure employees understand these boundaries, and know where to stand at what point in the gowning process. Here’s an example of a standard gowning process. Remember, however, that most gowning processes will vary depending on the standard you’re required to adhere to.\n\n
+        <i>1. Perfume and Cosmetics</i> – If you’re working in a cleanroom, the gowning process starts before you even get to work. It’s important to remember that products like perfume, make-up, hair gels, etc. give off extra fumes and particles. To keep your cleanroom as clean as possible, it’s necessary that anyone entering the room not wear these types of products.\n
+        <i>2. Remove personal items</i> – Personal items like jewelry also have to come off before you go into your cleanroom. They, just like cosmetics, release extra, unnecessary particles into the air that you’re better off without.\n
+        <i>3. Change Shoes</i> – Shoes pick up all kinds of dirt and dust when you walk around. It’s a good idea to change your shoes once you walk into the building, and then as you enter the gowning area, make sure you step on a sticky mat to remove any excess particles.\n
+        <i>4. Enter Gowning Area</i> – Now you’ll enter the gowning room, and most places have a “getting dressed” area, which is where you’ll start. Make sure to put on a set of “donning gloves” or just a first set of gloves to eliminate particle contamination of gowning clothes. When gowning, remember to dress from head to toe; this eliminates particles from falling onto already gowned parts like coveralls and booties.\n
+        <i>5. Don Bouffant</i> – First, you’ll put on your bouffant, or hair cover. Make sure to only touch the inside of it, and before you move on, ensure that all hair is covered and out of the way. After this, you may also have to don a hood, depending on your cleanroom’s standards.\n
+        <i>6. Don Coverall</i> – If your coverall is one piece, start with the feet and move upwards. If it’s two pieces, start with the top and then sit down to put on the bottom half. Do not let the coverall touch the floor or walls. Make sure you zip all zips, and snap all snaps.\n
+        <i>7. Booties or Shoe Covers</i> – Now, sit on the bench to don booties or shoe covers. Make sure you tuck your pants into the booties or shoe covers, and don’t step in the “getting dressed’ area. Instead, step into the “cleaner” area of the gowning room. If your cleanroom has an automatic shoe cover dispenser, use that for cleanliest practice.\n
+        <i>8. Don Goggles or Shield</i> – If your cleanroom requires them, this is where you put on your goggles or face shield. Some cleanrooms do not require this level of protection, so you may be able to skip this step.\n
+        <i>9. Final Pair of Gloves</i> – Depending on protocol, you may now remove the first pair of gloves and put on a second, or you may put a second pair of gloves over the first. Roll the cuff of the gloves over top of your sleeves.\n
+        <i>10. Enter</i> – Now that you’ve properly gowned, you may enter the cleanroom. Remember that at this point you are as “clean” as you’re going to get, so if you touch anything before you get inside, you’ll have to start over, or at the very least change your gloves.\n\n
+    </string>
+    <string name="cleanroom_credits">Article accessed from https://angstromtechnology.com/what-is-a-cleanroom\n
+    Copyright ® 2021 Angstrom Technology | Evenbound</string>
+
+    <string name="pellet_title">Why Pellet Size and Shape Are Important</string>
+    <string name="pellet_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        There are hundreds of details in the injection molding process and in evaluating them I can get rather “picky.” This month I’m picking on the pellets. Regardless of the resin type or manufacturer, you as a molder want your pellets to be uniform in size and shape. But pellets vary in size and shape. In the case of regrind they can range from fines to larger chunks. Bottom line, you need all the pellets to be uniformly melted at the proper temperature. If your pellets range in size and geometry, this won’t happen. Non-uniformly melted resin will not yield uniformly good or identical parts…period.\n\n
+        My guess is that the majority of molders do not give this issue much thought. Admittedly, it’s not the first thing I check when troubleshooting a problem, but I need to bump it up a few rungs. We assume all is well because we see molten polymer come out of the nozzle when we purge the machine, or because the parts look OK. That’s a bad assumption. To understand the problems with melting non-uniform pellets, let’s look closer at the melting process.\n\n
+        The melting process starts with the hopper, which feeds the granules into the feed throat. The hopper should be designed to provide mass flow—not funnel flow—so that resin is fed uniformly to the feed throat. There must be no channeling in the center, which is known as funnel flow (or “rat-holing”). Take a reality check: Go out to the shop floor and watch the pellets through the cleanout window. If the pellets up against the window do not slide down into the feed throat, you have a problem. My bet: 95% of the time, those pellets stay there for the entire run.\n\n
+        So how do you ensure mass flow? Check the hopper angle; for mass flow: It should be angled 60°. Single-shot hoppers are fine, provided you do not see fluidizing of the pellets (dancing in an air stream) when it calls for resin. If fluidizing occurs during screw rotation, you can guarantee the next shot will be a different part, because the fluidizing keeps some pellets from settling into the intake screw flights. This is a process variation. If you do have fluidizing in single-shot hoppers, fix the air leak at the junction of the feed throat with a good high-temperature silicone gasket.\n\n
+        Once you’ve established mass flow, make sure your feed throat is clean, unobstructed with big chunks, fines, or streamers, and is PID temperature controlled. Erratic water flow in the feed throat is not acceptable; it’s the most important zone of the process. It also should be set at a higher temperature than you think. The feed throat has two jobs: Feed the resin, and —just as importantly—act as a vent for gases escaping from the feed section of the screw. Set it at 55-65 C (130-150 F) to allow volatiles to escape and not condense. Even polypropylene will not get tacky at these temperatures.\n\n
+        If you have bridging problems, note the composition of the bridged material. If all the individual granules are stuck, then the feed throat is too hot. But if there is any completely melted polymer, or if the bridge is a ball of solid plastic, you do not have a feed-throat temperature problem. More likely your non-return valve is leaking.\n\n
+        Now let’s turn our attention to the feed section of the screw. As the screw rotates, it picks up the granules from the feed throat and augers them through the feed section of the screw. On a general-purpose screw, the feed section is a whopping 50% of the flight length. The purpose of the feed section is to compact the pellets and prepare them for the transition section (also called the compression zone). Here is where the flights of the screw pick up the granules, and they have to fit into the flight chamber. Pellets falling into the flight are no problem, unless they are either very large or very small (fines).\n\n
+        If the pellet is so large that it stands taller than the flight, it may or may not be sheared between the flight and sharp edge of the bottom of the feed throat. This can actually force the screw back, not allowing the flight to fill completely with granules. The screw just augers backward and you do not have a full shot of plastic in front of the screw. This is common with small-diameter screws and/or use of low backpressures. The result is the next shot has splay, bubbles, shorts, or unmelt.\n\n
+        Fines pose a different type of problem, as they melt much faster and earlier than normal-size pellets, which in turn reduces the friction needed to melt the normal pellets. Results are unmelt and black and white specks in your parts.\n\n
+        As the granules move through the feed zone, they begin to pick up heat of the rear zone, along with some compaction. This is when your friend Murphy—you remember Murphy’s Law—invites himself to the party. First, you have worry about where the air between the pellets is going as the pellets compact. If the melting process starts too early, air gets trapped and pushed through to the nozzle. The air shows up in your part as splay, which you may mistake for moisture. Running the feed throat hot and rear zone at the proper temperature allows the air to escape (vent) out the feed throat, perhaps taking along some moisture and other volatiles. Ask around if you don’t believe moisture and volatiles vent through the feed throat. Somebody will tell you a story of the feed throat burping pellets or, worse, being blown to or through the roof.\n\n
+        With compaction comes some pressure, but the high pressure (thousands of psi) develops within the transition zone. Here is where all the melting should happen.  The transition section of the screw is where the root diameter tapers thicker to the metering diameter of the screw; this taper compresses the plastic against the barrel wall. The ratio of the volume of a feed flight to the volume of a metering flight is known as the “compression ratio.”\n\n
+        Here is where the size and geometry of the pellets become driving factors on how and when a pellet or granule melts. Any variation in geometry or size will cause different degrees of friction, and this in turn provides non-uniformity within the polymer melt.\n\n
+        My bet is that variation in pellet size and geometry influences so-called “solid-bed breakup, ”a disruption of uniform conversion of the “solid bed” of compacted pellets into a melt pool within the screw flights, which is the source of partially melted pellets in your parts (see Fig. 1). My guess is that nearly 70% of your parts have this problem.\n\n
+    </string>
+    <string name="pellet_text_cont">Different coefficients of friction will generate different melting patterns as the pellets travel down the screw. And when Murphy is feeling particularly mischievous, you can get completely unmelted granules in parts. This is a rare occurrence but it does happen (see Fig. 2).\n\n
+    </string>
+    <string name="pellet_text_conclusion">Bottom line: Non-uniformity in pellet size and geometry fouls up the melting process and is a source of cosmetic, physical, chemical, and performance problems.\n\n
+    </string>
+    <string name="pellet_credits">Article accessed from https://www.ptonline.com/articles/injection-molding-why-pellet-size-and-shape-are-important\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="drying_title">A Dozen Details You Should Know</string>
+    <string name="drying_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        Drying is complicated. There’s a lot more to it than just saying, “Dry polycarbonate at 250 F for 4 hr.” In our column last month, we discussed why you need to dry many resins in the first place (to control viscosity and maintain performance), the proper angle of the hopper bottom cone, which hoses to insulate, where and where not to vent the regeneration air, and the importance of monitoring temperature at the entrance and exit of the hopper. Yet there’s still a lot more to know about drying—enough to fill a book, at least.\n\n
+        As a bare minimum, here are a dozen details you need to know:\n\n
+        <b>1.</b> Ever wonder why some dryers have an aftercooler in the return line to the cabinet? For the desiccant beds to work correctly, the air going into them needs to be below 150F. Therefore, if you are running the dryer hotter than 180F, you need to have an aftercooler on the return line (which should not be insulated) so the air is cooled for the desiccant. I believe the ideal temperature for the beds is about 130F.\n\n
+        <b>2.</b> If you have some time and a bit of cash, rig up a thermocouple in the air feed just before the desiccant bed. Be careful not to interfere with the desiccant rotation mechanism. Put the readout on the control panel so you can monitor the air temperature going into the desiccant bed. If higher than 150F, you won’t get the best drying the desiccant can offer. This is better than guessing at the inlet air temperature.\n\n
+        <b>3.</b> It will astound you to discover how many regeneration heater elements in your plant are not functioning correctly. If they are not working properly, you won’t regenerate (dry) the desiccant properly, and it won’t dry your resin as it’s intended to. A wise thing to do is put an “idiot light” on the control panel that tells you if the resistance of the elements in the regeneration heater is correct.\n\n
+        <b>4.</b> Are your filters clean? You need to force a certain amount of air through the system—are you getting it? If you have lots of regrind or fines, check the filters every day.\n\n
+        <b>5.</b> When was the last time you checked the desiccant? Is it still active? Read the supplier’s instructions and you may find a simple test of putting dry desiccant into a little bit of water and watching for a temperature rise. Desiccants can become contaminated or ruined by off-gases from processing certain resins. A general rule is to change the desiccant every 18 months. Desiccant isn’t cheap, but molded product recalls are much more expensive.\n\n
+        <b>6.</b> Don’t forget the seals. Check for leaks and crushed hoses. Do it and do it right the first time.\n\n
+        <b>7.</b> Ever get resin granules melting together in the hopper? You’ll wind up with a nice 200-lb pellet. Most of the time, that is not the fault of the material. It’s more likely the dryer bringing on stream the newly regenerated desiccant before it is cooled down properly. With some dryers, you can get a slug of 350F to 450 F air going into the drying hopper when the system switches desiccant beds.\n\n
+        <b>8.</b> Dewpoint measurements help. Run at less than -25F dewpoint—better yet, a good dryer should run at -40F dewpoint. Measuring dewpoint of the drying air does not tell you if the resin is dry, it just tells you whether the dryer has the ability to dry the resin.\n\n
+        <b>9.</b> Testing some dried resin for moisture content is the only sure way to know if you are drying correctly. There are a number of ways to measure moisture. Make sure your method is measuring just moisture—not all volatiles driven off a sample of pellets.\n\n
+        <b>10.</b> Once dry, most resins will pick up moisture in 15 to 30 min. Therefore, do not convey from a central hopper to the machine, or leave it in the machine’s hopper, without a blanket of dry air.\n\n
+        <b>11.</b> Note where the dry air enters the hopper and meets the resin. Hot air will only travel upward. Do not believe the arrows on dryer drawings. Air takes the path of least resistance. The bottom of the hopper is usually blocked. Therefore, any resin below the dry-air distribution hardware (look for a dip tube) must be drained and put back on top of the hopper load before you start molding. You do not want to process that bottom 20 to 75 lb, as it is wet and you’ll ruin it.\n\n
+        <b>12.</b> If you dry cellulosics, TPUs, flexible PVC, TPVs, and some other soft-touch resins, check the desiccant’s condition every six months, because these materials emit volatiles that can ruin desiccant.\n\n
+    </string>
+    <string name="drying_credits">Article accessed from https://www.ptonline.com/articles/injection-molding-know-how-drying-tips-a-dozen-details-you-should-know\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="nozzle_title">Pay Attention to Your Nozzle Body &amp; Tip</string>
+    <string name="nozzle_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        There are hundreds of details within injection molding; the problem is sorting out which ones are costing you money or keeping you from meeting critical tolerances. One that costs our industry a hundred thousand dollars a day is lack of attention to the nozzle body and tip of an injection molding machine. Every machine has one, and every day some of them give processors fits, resulting in long color or resin switchovers, drooling, stringing, part cosmetic problems, freezing off, leaking etc.\n\n
+        The purpose of the nozzle body and tip is to provide a flow path for the molten plastic from the end of the barrel to the sprue bushing of the mold. Sounds simple, and many molders treat it that way. However, ignoring these critical details can be costly:\n\n
+        &#8226;Pressure drop—make sure it is minimized.\n
+        &#8226;Temperature control with no hot or cold spots;\n
+        &#8226;Proper match-up or mating with the sprue bushing.\n\n
+        <b>Pressure drop</b>\n\n
+        The injection unit typically provides plastic pressures in the range of 10,000 to 40,000 psi for filling and packing most parts, including thin walls. In many cases, the higher the pressure drop, the more difficult the molding—or any problems with the part or mold get amplified. Anything that can be done to reduce the pressure required will improve the robustness of the process. Ideally, the pressure drop on the entire flow path to the part is minimal. Yet most molders worry only about the runner system or gates, and even get a mold-flow analysis to make sure. Ever see any mold-filling studies on nozzle design?\n\n
+        The first recommendation is to keep the nozzle body as short as possible, resulting in lower pressure loss. That might be obvious, but I have seen nozzle lengths everywhere from 50 mm to 760 mm. The 760-mm nozzle body required more than 13,000 psi to get plastic to flow through it.\n\n
+        The flow path through the nozzle should be tapered or conical—not a straight bore—in order to provide the least pressure drop and allow for faster purging. Yes, the shape of the flow path can help or hinder color or resin changeovers. To be fair, if it is a long nozzle body it is difficult to have one thick enough to taper. Also, the nozzle body may have a melt filter or mixing elements, which also add to the pressure drop. These should be evaluated for function and pressure loss so you know which filter is best and provides the least pressure loss. Also, if you watch the pressure loss, you can tell when the filter needs changing.\n\n
+        <b>Temperature control and setpoint</b>\n\n
+        Most molders agree that melt temperature is important, and the nozzle body and tip are no exceptions. During first- and second-stage injection, pack, hold, and cooling, the polymer in the nozzle body should be kept at the same temperature as the melt from the barrel. Residence time in the nozzle is not long enough for the melt to achieve a homogeneous temperature there via thermal conduction alone. So if the heater bands are too hot, the material on the outside will get overheated. The result is often that you’ll notice a blush, halo, or other cosmetic flaw on molded parts.\n\n
+        Also, for most applications, the volume of resin in the nozzle body and tip is only a portion of the part, and if you want to prevent warpage, blushing, or gloss variations, the melt temperature and cooling have to be uniform. Since the goal is uniform temperature, logic would lead you to set the temperature of the nozzle body at the same setpoint as the barrel, but like many details in life, logic seldom prevails.\n\n
+        Good nozzle temperature control requires attention to the controller, thermocouple, setpoint, and heater size, design, and placement, as well as some consideration of heat conduction. A good PID auto-tuning controller should work fine. If the machine has spare temperature controllers, use them. Thermocouple placement is a huge issue in our industry, as we have no standard for it. Some have a hole in the hex of the nozzle body. Others have it on one of the heater-band clamp nuts. Most molders rightly do not put a thermocouple through the nozzle into the melt stream.\n\n
+        So where should it go? Ideally we would have a sensor that is flush with the melt stream that provides instantaneous readings. So we are left with a compromise: If the nozzle body is less than 50 mm long it is okay, though not ideal, for the thermocouple to go in, not on, the hex of the nozzle body. If longer than 50 mm but shorter then 250 mm, buy a butterfly-type thermocouple and place it, using thermal paste, on the nozzle body one-third of the distance back from the nozzle tip. Wrap it two or three times with glass tape for insulation and replace the heater band, covering the thermocouple. If there is a hole drilled through the length of the nozzle, slide the thermocouple to the appropriate position.\n\n
+        A thermocouple attached to a heater band is unacceptable. Heater bands should cover more than 90% of the nozzle body and be of the right wattage and style. It would be nice if nozzles had thermal pins running through the length of the nozzle body. Unfortunately most cannot handle high temperatures and will be ruined if an operator takes a torch to the nozzle body or uses it with a resin requiring a melt temperature greater than 585 F. In addition, please route the thermocouple and heater-band wires on the side or top of the nozzle/barrel; you don’t want them drooping down so they get covered with plastic during purging.\n\n
+        Now that we have the nozzle body recommendations, what about setpoint? Due to the variations of size, type, hook-up, etc., determining setpoint is a guessing game. Focus on the goal of keeping the melt in the nozzle at the temperature of the melt in the barrel. Sometimes that will mean setting a nozzle temperature as much as 50° F higher (or lower) than the melt exiting the barrel. Using all necessary safety procedures, make a purge with larger volume than the nozzle body, measure the melt temperature, and then insert a thermocouple at least halfway into the nozzle. Leave the thermocouple in the nozzle for at least 10 minutes to see what temperature it stabilizes at after the purge. Note the difference between that temperature and the purge melt temperature and adjust the setpoint to accommodate this delta between set and actual melt temperatures.\n\n
+        <b>Tip mating and sprue bushing</b>\n\n
+        Next is the nozzle tip, the part that mates with the sprue bushing. Most of the time this is the 25-mm adapter that screws into the nozzle body. It’s too small for its own heater band. Unfortunately, that small tip has a large heat-loss tendency, especially when it’s mated with a cold sprue bushing. The nozzle tip temperature should be the same as the melt temperature, but that is difficult to achieve due to the heat transfer to the sprue bushing on cold-runner molds.\n\n
+        How many hours have you wasted dealing with drooling, stringing, or a tip clogged with unmelted polymer? All these problems are caused by the nozzle transferring heat to the cold sprue. Using cardboard as an insulator only helps for a few shots. Also, what about the cold slug that sometimes comes out with the sprue, and sometimes stays in the nozzle tip? On the next shot it does not always go into the cold slug well in the mold. This cold slug can and does go around corners and plugs gates. My suggestions:\n\n
+        <b>1.</b>Throw out all standard or “general-purpose” nozzle tips. Their land is too long and has dead space just inside the tip.\n\n
+        <b>2.</b>Use free-flow type nozzle tips or, if necessary, a reverse-taper design.\n\n
+        <b>3.</b>Check the surface contact of the tip against the sprue bushing to make sure the contact is on the inside of the radius and not contacting the entire radius. The best seal is with a small area of contact on the inside radius, but the contact area must be large enough not to peen the sprue bushing orifice. A smaller area of contact will transfer less heat from the nozzle tip to the sprue bushing. Contact force is often 5 to 15 tons. High contact pressure is needed to contain molten polymer at 40,000 psi in thin-wall applications. I’m assuming here that you have made sure the injection unit is centered to the sprue bushing.\n\n
+        <b>4.</b>Use an insulator designed for this problem.\n\n
+    </string>
+    <string name="nozzle_credits">Article accessed from https://www.ptonline.com/articles/pay-attention-to-your-nozzle-body-tip\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="feed_throat_title">Feed-Throat Temperature Control</string>
+    <string name="feed_throat_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        It seems the “picky” details of injection molding never end … and this month we are picking on the feed throat. In the December 2010 issue, fellow columnist Jim Frankland ably covered the subject of “zone zero” as it applies to extrusion. Guess what? The same rules apply to injection molding—with a few added twists, naturally.\n\n
+        Getting the details locked in on the feed throat of your injection molding machines will provide a more robust process and make your life easier. Why? Because you’ll gain better feeding, shorter and more consistent screw rotation times, better melt uniformity, more consistent cycle times, and less splay or blush to boot.\n\n
+        First, let’s define the purpose of the feed throat:\n\n
+        <b>1.</b> It provides a clear, free-flowing path for plastic granules, powders, and liquids (such as liquid color) into the feed section of the screw.\n\n
+        <b>2.</b> It prevents the granules, etc. from sticking or clumping together (often called “bridging”) in the feed throat.\n\n
+        <b>3.</b> It provides a vent for volatiles, air, and off-gases as the polymer heats up. These gases are air, residual moisture, resin lubricants, and other additives that are volatile at the polymer’s melt temperature.\n\n
+        <b>4.</b> It connects to the feed zone of the barrel and screw without providing a condensation area for volatiles coming off the plastic and vented through the feed throat.\n\n
+        <b>Why bridging?</b>\n\n
+        Bridging in the feed throat is an aggravating problem that usually results in significant downtime. The normal tendency for molders faced with bridging is to lower the temperature of the feed throat, usually with water cooling. This makes logical sense, but to really solve the problem it helps to pinpoint the cause.\n\n
+        Back in the good old days, feed-throat bridging was usually the result of granules stuck together. We actually used to shove plastic rods in and out of the feed section to break up the clump and get things feeding smoothly again. Nowadays, bridging is almost always manifested in a completely frozen, fairly round ball of solid plastic that’s managed to wedge itself in the feed throat—a real chore to manually break apart and clear.\n\n
+        If this is what you face from time to time, you must wonder how this plastic ball formed and wound up in the feed throat in the first place. If you check the feed-throat temperature, my bet is that the temperature is far below the melting point of your resin. For example, most polypropylenes melt well above 230 F. So a feed throat set at 70 F to 150 F simply will not melt your polypropylene. But I’m getting ahead of myself.\n\n
+        To understand the formation of the ball of plastic in the feed throat we need to review a few aspects of screw design and melt theory. Assuming you use a so-called general-purpose screw with a 20:1 L/D, you have a screw with 10 flights of feed section, five flights of transition, and five flights of metering. Most of the 10 flights of feed can be seen by looking through the feed throat, and it is wise to check every now and then to see if there is any melted plastic in this section. The feed section is not designed to melt the granules, just to auger them forward, so there should be no molten polymer or melted and refrozen polymer in these flights. Remember also that these deep feed flights are filled not only with plastic granules but with air, and lots of it. This air will get warm and needs to be vented through the hopper. Melted plastic in the feed zone prevents this from occurring.\n\n
+        <b>Watch for splay</b>\n\n
+        Such a blockage can also be a source of splay. If something is not set or working right, pressure can build and blow a hopper to the ceiling. Lots of plants have pock marks in the ceiling that prove this is no joke. As a safety measure, never look into the hopper or feed throat until you are sure there is no pressure, and always wear safety glasses or better yet, goggles. Blinding accidents have happened to the unwary.\n\n
+        If the feed throat does not melt the granules, and there is no melt in the feed section of the screw, then where does the melted plastic that freezes and forms the bridge come from? As I mentioned in this space last month, take a look at your non-return valve. These devices tend to leak so much that molten plastic is pushed all the way from the metering zone of the screw back up into the feed throat.\n\n
+        This happens during repeated injections followed by screw rotation, so melt gets pushed all the way back to the feed zone. Then, as the screw rotates, it pushes some of the molten plastic into the feed throat, where it cools and solidifies. Violà, the aforementioned plastic ball in the throat. Next time you get a bridged feed throat, drill a hole in it (be careful not to scratch the feed throat), thread a screw into the hole, pull out the wad of plastic, and send me a picture. I bet you won’t see any individual granules in the bridge, indicating that it is composed of thoroughly melted material from the front of the screw.\n\n
+        <b>How hot a throat?</b>\n\n
+        Now that we have explained the common cause of bridging, we need to go back to what temperature is best for the feed throat. The answer, of course, depends on the resin you are running, screw design, and perhaps shot size—especially with semi-crystalline resins. Such resins are more difficult to melt than amorphous ones; and as you build shot size, the plastic “sees” a shorter feed section of the screw, making the difficulty greater.\n\n
+        As a starting point, I recommend at least 130 F feed-throat temperature, unless you are dealing with a wax or some super-low-melting thermoplastic. From the point of view of venting (as noted above), warmer is better. If the polymer has to be dried, the feed zone could certainly be set 10° to 20° F lower than the drying temperature. A suitably warm feed zone prevents formation of a condensation ring, often a black tarry ring that is difficult to remove, at the junction of the feed section and the first zone.\n\n
+        Temperature control of the feed throat is critical. This zone should be kept quite warm—not at 70 to 110 F, but 130 to 250 F. What’s more, this zone is just as critical, perhaps even more so, than any other zone of the barrel or hot runner, so it should be PID controlled just like all your other barrel and hot-runner zones.\n\n
+    </string>
+    <string name="feed_throat_credits">Article accessed from https://www.ptonline.com/articles/feed-throat-temperature-control\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="scientific_molding_title">Why Molders Fail At Implementing Scientific Molding</string>
+    <string name="scientific_molding_text"><i>Written by Kip Doyle, CEO of POV Plastic Solutions</i>\n\n
+        What is Scientific Molding? And why do molders seem to have such a difficult time embracing its concepts?\n
+        The answer to the first question is straightforward: Scientific Molding is a practice for achieving optimal control of the injection molding process to deliver faster molding cycles, higher yields, and a more robust molding process. This optimal control of the molding process is realized by focusing mainly on the behavior of the material in the mold, rather than on the machine.\n\n
+        <b>Number 10:</b> Lack of proper training. In my experience, many people don’t see the big picture of what it takes to implement Scientific Molding. Simply sending one employee to even the best of seminars isn’t enough. Management is often looking for a “quick fix” rather than understanding the need for a total cultural change. Training cannot be viewed as a one-time event. The most successful implementation strategy includes an on-going training plan.\n\n
+        <b>Number 9:</b> Lack of support at all levels and departments (top management through technician). Efforts to implement Scientific Molding must be supported at all levels. Floor-level personnel cannot do it without the understanding and support of management. Investment of time, money, and resources is required. By the same token, management cannot “push” the employees into this approach. A clear understanding and buy-in is required at all levels.\n\n
+        Support groups (tooling, maintenance, QC, etc.) also must be involved. One of the main benefits of Scientific Molding is fostering a common language and consistency in processing strategy. It is critical that everyone be on the same page.\n\n
+        <b>Number 8:</b> Short-term thinking. This often results in short-cut taking. Optimizing and documenting a process using Scientific Molding techniques takes time. A number of procedures must be performed and data must be collected. There are no short cuts. In the busy day-to-day manufacturing world, it is often difficult to make the time to do all of the right things. Cutting corners results in half-baked results.\n\n
+        <b>Number 7:</b> Lack of proper tools. Like all jobs, the proper tools are required to establish a properly optimized process. The Scientific Molder’s toolbox must include temperature measurement devices, weigh scales, part measurement devices, process monitoring devices, water-flow measurement devices, etc. These tools are critical to collect all of the information necessary to do the job properly.\n\n
+        The well-equipped Scientific Molder will also have the necessary “soft tools,” including spreadsheets, lab forms, procedure instructions, etc. for gate-seal studies, viscosity curves, pressure-loss studies, machine testing procedures, etc.\n\n
+        <b>Number 6:</b> Machine performance issues. Scientific Molding is built on the foundation of a properly performing molding machine. A properly trained Scientific Molder knows how to test machine performance in key areas, including load sensitivity (injection velocity control), pressure control (pack and hold), nonreturn valve performance, temperature control, etc. The machine must be capable of performing properly and maintaining repeatability. When performance issues are detected, machine calibration or repair may be required. In some cases, the machine must be modified or upgraded. In some rare cases, the machine must be replaced. Scientific Molding will not compensate for a poorly performing machine.\n\n
+        <b>Number 5:</b> Can’t get past the “machine-focused” approach. In Scientific Molding, the processor molds from the plastic’s “point of view.” For many years molders have been focused on machine parameters and not plastic parameters. Many articles have been written on the four primary plastic variables (plastic temperature, plastic flow, plastic pressure, and plastic cooling rate and time). The Scientific Molder must understand this approach and the process must be optimized and documented from the perspective of the plastic. For many, something as simple as thinking in plastic pressure rather than hydraulic pressure is difficult. The successful molder must overcome this machine-focused line of thinking.\n\n
+        <b>Number 4:</b> Not processing from the “plastic’s point of view.” OK, we just said this, but you know what?, it’s important enough to repeat. This is a major paradigm shift for most molders. It is critical that the Scientific Molder adopt the mindset of processing from the plastic’s “point of view.”\n\n
+        <b>Number 3:</b> Allowing emotions rather than facts and data to drive processing efforts. The Scientific Molder understands that injection molding is a science, not a black art. The “magic dust” and lucky chants must be left behind. Process changes must be based on facts and data, not emotion. The successful molder has a good reason for everything he or she does.\n\n
+        <b>Number 2:</b> Trying to solve part-design/tooling/material issues through processing. There are five critical components to any successful plastics application: part design, material selection and handling, tool design and construction, processing, and testing. Each component is equally important and each must be done correctly. Processing cannot be expected to compensate for errors in the other four areas.\n\n
+        <b>Number 1:</b> Resistance to change. We are all creatures of habit. The more years of experience the molder has, the harder it is to embrace a totally new way of thinking. For many companies, this is a show-stopper. Every company has its own unique culture and approach to processing. Changing to a new approach after decades of processing in a certain way is very difficult for some people.\n\n
+        Although implementing Scientific Molding takes time, effort, and resources, it is an effort that is well worthwhile. For many, implementation of Scientific Molding has resulted in a dramatic increase in profits. In some cases, it has been credited with saving companies that were on the verge of closure. Scientific Molding is much more than an industry buzzword. It is a trend that is changing our industry for the better.\n\n
+    </string>
+    <string name="scientific_molding_credits">Article accessed from https://www.ptonline.com/articles/top-10-reasons-why-molders-fail-at-implementing-scientific-molding\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="polymer_flow_title">Understanding Polymer Flow: Interpreting the Viscosity Curve</string>
+    <string name="polymer_flow_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        Let’s take a step back in the development of Scientific Molding with a review of one of the benchmarks of the technology: The on-machine viscosity curve. When it was first presented in the late 1980s it was not well accepted, but some 20 years later it has gained a substantial foothold, perhaps to the point of being a bit overrated.\n\n
+        <b>Measuring a viscosity curve on the injection machine took 20 years to gain wide acceptance.</b>\n\n
+    </string>
+    <string name="polymer_flow_text_cont">For those new to Scientific Molding, the viscosity curve is a plot of the viscosity of a polymer vs. shear rate (see graph). Data here is plotted on linear scales rather than the academic (and more correct) log-log method. I like the linear plot because it shows the magnitude of viscosity variation as you change shear rate by changing injection velocity or fill time. Data is obtained by doing this experiment on an injection machine with the mold and resin you plan to run.\n\n
+        Start the experiment by taking hold pressure off. Lower the hold pressure to near zero; then, starting with a high injection velocity, make a short shot, 99% full by volume. Take data as you gradually lower the injection velocity—don’t adjust anything but injection velocity. From the table below, you can use the injection pressure at transfer and fill time to develop the viscosity curve. (For those who want to know the science behind the terms in the chart, the parameters in this experiment are related by a fluid dynamics expression known as the Hagen-Poiseuille equation. You can find the equation on Google.com.)\n\n
+    </string>
+    <string name="polymer_flow_text_conclusion">After interpreting this data in relation to the machine, resin, and part, the processor is guided to a fill time for this particular mold and resin. This fill time is now set for the life of the project. Once you become adept at the procedure and log the data into a spreadsheet, the experiment should take about 30 minutes. That’s time well spent to get the data for determining fill time and the start of a production-capable process.\n\n
+        <b>Viscosity is influenced more by shear rate—injection speed—than temperature or even resin lot variations.</b>\n\n
+        But how do you interpret the curve? The concept is that if you understand how plastic flows and fills a mold, you can use this information to make robust processes that produce consistent parts. Starting with the basics: The graph shows a typical curve. In fact, once you do a few of these you’ll recognize that if you have good data that spans a decent range of fill times, the curves all have the same shape. Only the ranges of the scales change. That is the way it should be—plastics are non-Newtonian, meaning they all change viscosity with changes in injection rate or fill time. In fact, viscosity is influenced more by shear rate—injection speed—than temperature or even resin lot variations.\n\n
+        Check out the numbers in the table accompanying the graph. If you round up a bit, the viscosity at the fastest speed, a fill time of 0.39 sec, is about 2000 psi-sec. If you double the viscosity it would be 4000, five times the viscosity would be 10,000, and 10 times stiffer would be 20,000. So in this case, just by changing injection rate you can change the viscosity 10-fold or an order of magnitude. Temperature and lot variations cannot come close.\n\n
+        If the biggest single factor in the viscosity of most plastics is injection speed or fill time, what does that mean for processing?  First, you must keep the fill time the same to have a stable process that can make the same part on any machine. That is, shot to shot, summer to winter, machine to machine. Our range in this case is a tight ±0.04 sec. It does not matter what injection velocity you set on any given machine—the critical parameter for the plastic is keeping the fill time the same. This keeps the shear rate the same. (A little caveat here: If it is a multi-cavity tool, fill balance is important.)\n\n
+        The next step in interpreting the data may be asking this question: Where on the curve do want the process to run? You have to be somewhere on the curve, because your experiments covered the entire range of the machine: You went as fast as the machine could go to as slow as it could go. Looking at the data you can see a large change in viscosity on the left side of the curve. That does not bode well for a stable process. For process stability, the plastic likes the flat section of the curve, as shown in the center to right side of graph. Viscosity is not changing much in this section; it is a flat line, something like the way water flows. In other words, the plastic likes to go fast; it has lower viscosity, which does not change much with small speed variations.\n\n
+        Because of this, many processors pick a point near the shortest fill time. Unfortunately, things aren’t that simple, as the part, mold, machines (other machines this mold may be scheduled for), or the application often require some tough compromises. For example, if you are molding optical lenses, you will be forced to be on the steep section of the curve, as there is too much birefringence at the fast injection speeds. Plating or painting also require slow injection speeds and longer fill times. Your machine may be pressure-limited, or perhaps cannot control the ram speed. The data is just telling you what the plastic wants to do; all the other components of making a good part have to be considered by testing. This is what I meant above when I used the term “overrated.”\n\n
+        <b>Don’t waste hours on developing injection speed profiles, when the test parts from the velocity-curve experiment provide the data you need.</b>\n\n
+        What about profiling injection? Most machines today can profile five to 10 velocity steps for part filling. Does the data tell you when to change speeds and what speeds to use? Some molders waste hours on this, to the point of changing the profile daily. However, the test parts from the velocity curve experiment provide the data you need.\n\n
+        Line up all the shots in order, fast to slow or slow to fast. Inspect each to see if there are any changes in appearance as you changed the fill time. If all parts are short and sinky with no blush, flash, streaks, burns, or other defect, then there is no reason to profile injection speed. If you do see flash or burns, those are mold issues that should be fixed, not worked around. You will have to add time to the cycle and that will kill your profit margin, so fix the tool. Keep it simple and use one injection speed. I would estimate that 80% of all molding jobs should not need profiling.\n\n
+        In short, take the time to do the viscosity curve on new molds. You will learn more in that hour than many learn in years about the process for this tool. But remember that there are other components of making a good part that have to be factored into this complex equation. \n\n
+    </string>
+    <string name="polymer_flow_credits">Article accessed from https://www.ptonline.com/articles/understanding-polymer-flow-interpreting-the-viscosity-curve\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="barrel_zone_title">How to Set Barrel Zone Temps</string>
+    <string name="barrel_zone_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        In setting up a new or existing mold, there are a myriad of variables the processor has to deal with, yet one gets immediate attention: setting  up the barrel zone temperatures. Operators don’t want to waste time waiting for the machine to warm up, so they generally set the zones to the desired temperatures as they set the mold and prepare for production.\n\n
+        But the questions are: What temperature do you want the melt to be, and what temperature profile of the barrel zones will get what you want? Most will agree that having the polymer at the correct melt temperature is a significant factor in making quality parts with stable, trouble-free production. Incorrect temperature settings waste resin and can provide unacceptable parts due dimensional issues, warpage, burning, black specks, degradation, and loss of part performance, to name a few.\n\n
+        <b>Even if it’s a material you have experience with, double-check data sheets for the resin supplier’s melt-temperature recommendations.</b>\n\n
+    </string>
+    <string name="barrel_zone_text_cont">Machines can have four or more barrel zones, but the basic zones are: feed, rear, middle, and front. You also need to correctly control the nozzle body and tip (image above). The processor starts by picking a target melt temperature. If it is a resin or grade new to you, check to see what the manufacturer recommends. Even if it’s a material you have experience with, double-check data sheets for the resin supplier’s recommendations. A mistake at startup will only screw up the rest your day and cost your company money. Usually the resin supplier will provide a range: Let’s say it recommends 450-510 F (230-265 C) for a semi-crystalline resin. Pick something near the center, in this case 485 F (250 C). You now have the target temperature for the melt. Next is setting up the barrel zone profile.\n\n
+        This is a bit more complicated. A molder will often consider what backpressure to use in setting up the barrel temperatures. While important, backpressure deserves a separate article. For this discussion, let’s assume it is set at 700 psi plastic (not hydraulic) pressure, as this resin is reasonably thermally stable and not glass-filled. Backpressure cannot be stated as 50 or 100 psi, as a hydraulic machine has an intensification ratio that must be known and used to set backpressure correctly if you want to duplicate the process. In my experience, backpressure is stated incorrectly in 95% of resin suppliers’ specification sheets.\n\n
+        Before the barrel zone profile is established we need to cover a couple of resin and screw basics. These will help us understand the barrel profile settings. The typical “general-purpose” screw in our industry is best described as having no purpose. In the real world, however, such designs are common.\n\n
+        A screw is composed of three sections:\n\n
+    </string>
+    <string name="barrel_zone_text_conclusion">
+        <b>1. The feed zone.</b> Often half the screw flight length, this section augers and compacts the granules coming in from the feed throat and perhaps conducts a bit of preheating before the transition zone. Feed-section flights are deep, and as the granules fall in there is air between them. This air needs to be vented out the feed throat or it will cause problems such as splay.\n\n
+        <b>2. The transition/compression zone.</b> This usually comprises 25% of the screw flight length. Here material is melted for the shot.\n\n
+        <b>3. The metering section.</b> This also is typically 25% of the screw flight length. This section pumps the plastic forward and generates the backpressure.\n\n
+        <b>Semi-crystalline resins melt very differently from amorphous resins.</b>\n\n
+        With screw basics completed, let’s turn to resin issues that influence how plastics melt. Thermoplastic resins can be amorphous or semi-crystalline. Amorphous materials like ABS and HIPS melt gradually, like butter, and soften easily. Conversely, semi-crystalline resins like polypropylene, polyethylene, and nylon melt like ice, and stay hard until they reach their melting point. They also have a latent heat of fusion, which means they need a certain amount of energy to reach their melting point, and once there they need yet another jolt of energy to get them melted. A semi-crystalline resin will often require twice as much energy to melt as an amorphous resin. For example, PS takes about 160 Btu/lb to melt, whereas PP takes 250-300 Btu/lb. Bottom line: It is harder to properly melt a semi-crystalline resin.\n\n
+        So both screw and resin characteristics must be taken into account when setting up barrel zone temperatures.  How does one sort all this out?\n\n
+        &#8226;<i>Setting the feed zone:</i> Starting at the beginning of the melting process, the feed zone has to act as a vent, but you don’t want the granules to stick together. It should be PID controlled like the other zones, and for the semi-crystalline resin in this scenario I suggest 140 F (60 C). This is warmer than most would consider, but it provides venting, will not result in condensation of volatiles, is well below the softening point of the resin, and will not cause bridging.\n\n
+        &#8226;<i>Setting the rear zone:</i> Remember, in our scenario we are running a semi-crystalline resin, so you must consider shot size. If the shot is greater than roughly 50% of the barrel capacity, keep in mind that the feed section actually shortens because of the large shot size; that is, the time before the resin sees the transition or melting zone shortens. You also have to consider that the transition zone has to pump in a lot of energy and may not be able to get it done. Thus, if the shot is a large portion of the barrel capacity, I set the rear zone high, perhaps 490 F (255 C). If the shot is less than 40% of the barrel, the rear zone would be lower, 465 F (240 C), to ensure there is no melt formed in the feed section to block venting. For an amorphous resin I do not raise the rear zone.\n\n
+        &#8226;<i>Setting the center and front zones:</i> To achieve melt uniformity these are both set at the target melt temperature, 485 F (250 C). The goal is to have the front zone at the same temperature as the melt coming out of the metering zone. If the front zone temperature is different there will be a problem with melt uniformity. Review the details of the cycle and you will realize the shot—a cylinder of plastic and reasonably thick—does not reside in the front zone very long—only seconds. If the front zone is a different temperature than the melt, some portion of that cylinder of plastic will be at a different temperature, as plastic is a poor heat conductor.\n\n
+        The goal is that once you have the plastic melted, keep it at that temperature. The melt does not reside in the front zone, nozzle body, nozzle tip or hot runner long enough to reach melt uniformity if these are at different temperatures than the target. Having the outer layer of the plastic melt at a different temperature will often produce cosmetic issues with your parts. Blush, halos, gloss differential, etc., are problems I have found to be some of the hardest to resolve.\n\n
+        <b>Avoid the ‘quagmire’ in setting up nozzle temperatures.</b>\n\n
+        Setting the temperature of the nozzle body and tip is a quagmire. Most have incorrect heater bands, temperature controllers, and insulation, plus poor location of thermocouples and other design issues. All these problems make setting the right temperature nearly impossible.\n\n
+    </string>
+    <string name="barrel_zone_credits">Article accessed from https://www.ptonline.com/articles/how-to-set-barrel-zone-temps\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="gate_seal_title">Gate-Seal Testing Done Right</string>
+    <string name="gate_seal_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        With Scientific Molding, two stages are used to form the part: First stage is for getting most of the plastic into the part, normally 90% to 99.9% full by volume. Second stage packs the part to mimic the steel cavity texture and shape. Optimizing the second stage—also referred to as pack and hold—involves moving relatively little plastic into the cavity, but it’s critically important for surface finish, cosmetics, and part dimensions.\n\n
+        Let’s focus on the second parameter: gate sealed (frozen) or unsealed (unfrozen). Most of us were taught to always run with the gate sealed so as not to let any plastic backflow out of the gate. Gate seal does provide an easier process to run, but do not make this decision based on what you like,  but on what is best for the part. Part performance requirements overrule.\n\n
+        Maybe you can tell which way to go by looking at the part, gate, or runner—but I can’t. It’s a complicated question and I gave up guessing years ago. The area around the gate often has drastically different physical and chemical properties, due to being highly stressed. It should not see high loads, flexing, or impact. It is important that the mold maker understand the function of the part for proper gate location in the mold design.\n\n
+        How do you get the part to tell you what it likes best? The answer is to do the gate-seal experiment and then test parts made with and without gate seal. The data will tell you what is needed and will allow you to make better parts. This will save you time and money by eliminating one variable/factor in your design of experiments (DOE). Heck, it might even prevent a product recall. The whole concept behind Scientific Molding is to find an experiment that tells you what is best for the part and process. The gate-seal test isn’t hard to do, but like many molding issues, you need to sweat the details.\n\n
+        Here is my guideline for the procedure. It may have to be modified to suit your application.\n\n
+        <b>1. </b>Check that timers are functioning correctly and that they span the appropriate time for the part.\n\n
+        <b>2. </b> Make sure you have a cushion and will not bottom the screw (the check valve should not leak).\n\n
+        <b>3. </b>Make sure that the part is not being filled or packed during screw rotate or plastication if you have to run with a long screw delay before screw rotation.\n\n
+        <b>4. </b>Note overall cycle time, average screw rotate or recovery time, and total pack and hold (second-stage) time.\n\n
+        <b>5. </b>Find the sum of second-stage time and cooling or mold-closed time. The minimum cooling or mold closed time should be a little longer than the actual screw rotate or recovery time. Example: Existing pack and hold timer(s) at 7 sec. If the cooling timer is set for 20 sec and the screw rotate time is 12 sec, the total for second-stage and cooling is 27 sec. Next, in this example, set the cooling or mold closed timer to 26.8 sec and the second-stage timer 0.2 sec. The minimum cooling time will be 13 sec, as it takes 12 sec to charge the shot, and you do not want cycle time to be dependent on screw recovery.\n\n
+        We’ll show how to get to that minimum cooling time in subsequent steps. Note: Cycle time should not change during this experiment, unless you have a very long gate-seal time—in this case, more than 14 sec. \n\n
+        <b>6. </b>With the second-stage timer at 0.2 sec and the cooling timer at 26.8 sec, get the process on cycle. Cycle time should be constant. Note that the sum of the cure timer and pack and hold timer(s) will always equal 27 sec (in this example).\n\n
+        <b>7. </b>Did the cycle time change from the normal cycle time after your adjustments? If so, redo the steps above. Cycle time should not change during the experiment, except for the one or two shots made as you change timer settings.\n\n
+        <b>8. </b>Set up pack/hold pressure to a nominal value by starting low and raising hold pressure until the part “looks” acceptable. Most likely this is not the pressure that will be used to make production parts; it is only for this experiment. Do not use any bogus rules like, “Hold or second-stage pressure should be 50% of fill pressure.”\n\n
+        <b>9. </b>Once the machine is at steady-state, take two sample shots. Cut the runner off if it has a cold runner and label both runner and part with the hold time. If it must be clipped off, do it identically for all samples. For multi-cavity tools, it is your choice to sample cavities individually—which I recommend if you suspect different cavity temperatures or different gate sizes—or all cavities together. I tend to sample all cavities together unless there are reasons to suspect a problem.\n\n
+        <b>10. </b>Remove 1-2 sec from the cooling timer and add the same 1-2 sec to the second-stage timer. The time intervals you use should be appropriate for the part. Again take two samples and write the new second-stage time on each set of parts and runner (if any).\n\n
+        <b>11. </b>Repeat step 10 until the part weight does not increase (for cold runners) or increases only slightly (for hot runners). Cycle time should be unchanged throughout the study. However if you still do not have gate seal—that is, the part(s) stopped increasing in weight—continue to add hold time, extending the cycle slightly.\n\n
+        <b>12. </b>Verify the mold is not being packed out during screw recovery  from backpressure (called intrusion). Weigh parts with and without screw recovery at the shortest pack and hold time. In our example, this would be 0.2 sec.\n\n
+        <b>13. </b>Weigh the parts and runners separately, then plot part weight vs. pack and hold (second-stage) time. Make sure you use an appropriate scale. For example:\n\n
+    </string>
+    <string name="gate_seal_text_cont">
+        <b>14. </b>Find the second-stage time at which the parts stop gaining weight or start to get lighter. Variation in the last digit of the scale reading is not significant. For example if the part weighs 22.55 g, the part weight must change by 0.1 g to be considered a significant weight change. This time is the gate freeze time. For example:\n\n
+    </string>
+    <string name="gate_seal_text_conclusion">
+        <b>15. </b>This example shows a gate-freeze time of about 4 sec. This is not where you should set the pack-and-hold or second-stage timer(s). In fact it would be the worst possible choice, as typical temperature and process variations would result in some parts with the gate sealed and some parts with the gate unsealed. It’s critically important to make two sets of parts for testing: One set with gate unfrozen, say at 2 sec of second-stage time and another set made at gate freeze plus 2 sec (in this case, 6 sec).\n\n
+        Thoroughly test both part sets for performance, not size. Set hold time to provide gate freeze or unfreeze, whichever provides the best performance. If you can run with gate freeze, you must be conservative and set second-stage timer(s) to 5 or 6 sec (for this example) to ensure the gate is frozen with normal process-temperature variances.\n\n
+        Remember some parts will run best without gate freeze. If you run with gate unfrozen, the process must run at a consistent cycle time; manual cycles are unacceptable.\n\n
+        <b>16. </b>Now plot the weight of the runner vs. hold time to make sure the runner is not freezing before the gate does. If the runner freezes before the gate, you may not be able to pack out the part properly.\n\n
+        Caution: If different melt or mold temperatures, gate sizes, backpressure, screw speeds, and significantly higher hold pressure or cycle times are implemented, a new gate-seal study must be done. Also, make sure you always have a cushion. With long hold times, the screw can move forward if the check valve leaks.\n\n
+        Bottom line, let the part decide what is best, get data, and study it. There is too much at stake to go with opinions or rules based on myth.\n\n
+    </string>
+    <string name="gate_seal_credits">Article accessed from https://www.ptonline.com/articles/injection-molding-gate-seal-testing-done-right-\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="cycle_optimization_title">Faster Is Not Always Better—Optimize Your Molding Cycle</string>
+    <string name="cycle_optimization_text"><i>Written by Garrett Mackenzie</i>\n\n
+        In today’s fast-paced injection molding business, lean manufacturing is a primary driver of profitability. Without lean, organizations find their operations are sluggish and ineffective. This not only affects a company’s ability to grow and prosper, but also its capacity to take on new work is diminished because current systems have not been effectively streamlined. This column addresses cycle-time optimization, outlining the different variables within the molding process that can be used to maximize profits.\n\n
+        One of the first points that needs to be made when addressing this topic is that it is possible for machines to run too fast—that is, too fast to ensure product quality. Every molding job is different, and the following conditions must be satisfied to properly assure that the optimization is successful: \n\n
+        <b>1. </b>Quality is key to the integrity of every molding operation. Running so fast that you can’t provide adequate time for operator inspection defeats the purpose of effective production. Rework and scrap reduce productivity, so steps must be taken to assure that quality is not affected by optimization.\n\n
+        <b>2. </b>Keep optimization tactics real, and consider potential failures that could occur due to optimization. For instance, knocking 10 sec off a job molding nylon parts sounds fantastic, but if the lower cooling time increases shrinkage, it could potentially throw parts out of spec dimensionally.\n\n
+        <b>3. </b>During the optimization process, be vigilant to make adjustments slowly. When changes are made to the process in clusters, first make the adjustments; then allow ample time for changes to take effect; take sample parts for part layout; and then put the settings back until the parts and process have been validated. Sample runs should always be run separately from production as a means to prevent suspect parts from getting to the customer.\n\n
+        Following those three steps helps prevent costly errors through poorly planned optimiza- tion. Optimization is a fantastic tool when properly applied to your molding operation, but only with the understanding that the proper approach is crucial to the success of continuous improvement.\n\n
+        Here are the parameters to be considered when reducing the cycle time of a molding operation:\n\n
+        <b>Cooling Time:</b> This is one of the easiest avenues to optimizing your cycle. In most molding scenarios, cooling time is set 1.5 to 2 sec longer than screw rotate time. It is important to point out that there are situations that may require a longer cooling cycle (such as dimensional requirements or parts sticking); but as a general rule, screw rotate time establishes cooling time. \n\n
+        <b>Hold Time:</b> This is another major contributor to maximizing cycle time. The best method of optimizing hold time is through a gate-seal study. Gate seal is the amount of required hold time needed to cool the hot-runner tip into stasis. This prevents plastic from leaking back out of the runner, which leads to molding inconsistencies.\n\n
+        Performing a gate-seal study is simple. Once a decoupled process has been established, set the hold time well above what is generally common for the material and part size you are working with. While running, make reductions to the hold time and weigh each part as it relates to the change. Watch for a weight reduction, and when the part weight drops, add 1 sec back to the hold time, and the test is complete.\n\n
+        <b>Fill Time:</b> Here is another parameter that affects cycle time. Injection speed controls how long or short the resulting fill time is. Of course, the type of material and the mold’s complexity also put constraints on fill time. Based on this, the goal of optimizing fill time is to shoot material as quickly as possible without affecting the aesthetics and functionality of the parts being produced. It is also important to note that proper venting is crucial to faster fill time. Poorly vented tooling does not allow for the proper escape of gases, which can cause defects such as burns, splay, etc.\n\n
+        <b>Melt Temperature:</b> When setting up a process, using minimal temperature helps reduce cooling time, which in turn helps improve cycle time. It is important to note that every processing approach is different, so the higher viscosity of a lower melt temperature could lead to defects. Start your process at the lower end of the melt-temperature window, and as you make adjustments, raise temperatures in modest increments until you achieve process stability.\n\n
+        <b>Mold Temperature:</b> This temperature also affects cooling time. When establishing mold temperature, start at the low end of normal processing recommendations from the material manufacturer. Higher temperatures might be required to improve aesthetics and even part removal. Don’t forget that mold temperature also affects dimensional properties.\n\n
+        <b>Backpressure:</b> Higher backpressure increases screw-rotate time, which can affect minimum cooling time. Use enough backpressure to achieve melt consistency, but keep it as low as possible to reduce screw rotate time. It is also important to note that higher backpressure might be required for certain material and colorant combinations.\n\n
+        <b>Mold Open/Close Speed:</b> Maximize these speeds to reduce mold- open time. Here it is important to note that mold-breakaway and mold-close speeds are affected by the complexity of the given tool’s slides, horn pins, etc., so make the mold’s safety your first priority as you set these speeds. In addition, watch for low-pressure close. You want to keep the pressure as low as possible for mold protection, but remember that setting the speed and/or pressure too low can add to overall cycle time. Again: safety and mold protection take first priority over minimizing cycle time.\n\n
+        <b>Ejection:</b> Improper ejection setup can adversely affect cycle time. During ejection setup, use only the amount of stroke you need to remove the part safely without it sticking in the mold. Ejection speed and pressure are also important to faster ejection time, but it is important to note that when increasing the speed and/or pressure setpoints, you must watch for pin push or cracking. Minimal pressure and maximum speed will generally produce the optimum result.\n\n
+        <b>Robot:</b> Automation also affects cycle. There are two primary effects that can be optimized. First, the robot needs to get in and out of the mold quickly to minimize mold-open time. Second, the robot must be in position waiting for the mold to open. When possible, establish the robot “wait ” position as low on the “Y” axis as possible to improve the extraction time.\n\n
+        Lean manufacturing requires continuous improvement and maximized efficiencies. When cycle optimization is complete, the resulting process will yield the highest production with little to no scrap and a minimum amount of downtime. It is important to remember that the primary goal of optimization is full efficiency while maintaining world-class quality. Through a careful and meticulous approach, process optimization can be an effective tool in the journey towards lean manufacturing. \n\n
+    </string>
+    <string name="cycle_optimization_credits">Article accessed from https://www.ptonline.com/articles/faster-is-not-always-betteroptimize-your-molding-cycle\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="purging_titles">Purging: A to Z</string>
+    <string name="purging_text"><i>Written by John Bozzelli, Founder of Injection Molding Solutions</i>\n\n
+        Changing color or resin in an injection molding machine is a significant hassle confronted by all molders. Changeovers take time (both machine and operator) and cost money in the form of wasted material. This is time and resin you cannot sell to your customer.\n\n
+        The challenge for molders is to minimize these losses. I do not have a magic procedure to pass on that will allow you to make changeovers in 5 min. Besides, one procedure will not work for all resins. But in this column I will make some suggestions that I have used to get the job done as quickly as possible.\n\n
+        First, let’s make sure the goal is clear: Get all the flow paths of the resin clean so the next resin or color is not contaminated. The flow path of the resin starts with the manufacturer’s package—bag, box, truck, or railcar. Once arrived at the molding shop, the resin has to be unloaded, then sent to the machine. Its path may consist of conveying lines, silo, more conveying lines, dryer, machine hopper, feed throat, screw/barrel, nozzle body, nozzle tip, and perhaps a hot runner to the final destination—the part. That’s a lot of flow paths, so where should you start?\n\n
+        <b>1. Resin supplier and carrier: </b>Nobody is perfect, and the resin supplier and carrier (trucking company, railroad, etc.) can contaminate the resin. So before unloading or accepting delivery, pull samples and inspect. (How to sample bags, gaylords, hopper trucks and rail cars is a subject for another day.) It is important that you do not contaminate your equipment upon delivery. Broken bags or gaylords should be suspect.  Also, make sure that the unloading line is clean with no breaks or holes,  and that contamination from another resin, dirt or oil does occur.\n\n
+        <b>2. Plant storage: </b>Whether silo or warehouse, it needs to be checked periodically, not only for contamination sources from dust to bird droppings, but for cleanliness and appropriate space and equipment to store bags or gaylords without contaminating the resin.\n\n
+        <b>3. Transport to dryer or machine:</b>Usually not a major source for contamination problems, but anything can happen in a molding shop. Elbows wear, lines do not mate properly, and so forth, so fines, angel hair, stringers, and contamination are all possible.\n\n
+        <b>4. Machine hopper and feed throat:</b>The hopper is supposed to be easy enough to clean but is this actually the case? Check the hopper for proper angle and cleanliness—no fines, etc. The feed throat is not as easy to get at and rarely gets the attention it deserves. Take time to inspect it and remove any buildup of oils, waxes, resin, rust (yes rust, there are times when you can actually see condensation) or other contamination. \n\n
+        <b>5. Screw and barrel: </b>This is the last and biggest hurdle to overcome when changing color or resin. Before I begin the stepwise process for purging, it is important to state that a lot of this would not be necessary if molders paid more attention to screw design. As fellow Plastics Technology columnist and extrusion expert Jim Frankland has stated: “A general-purpose screw is a no-purpose screw.” Now to optimize the time- and money-wasting procedure that negatively impacts your profit margin:\n\n
+        &#8226;<b>a. </b>Make sure you have a free-flow nozzle tip. General-purpose nozzles have a dead spot in the nose and take about 50 shots to purge clean. I recommend throwing them out. If you’d rather not, take off the general-purpose tip and clean it.\n\n
+        &#8226;<b>b. </b>Check that the nozzle body is as short as possible for this mold and there is no obstruction in the flow channel.\n\n
+        &#8226;<b>c. </b>Purge the barrel of the existing material. I don’t change shot size or temperatures until the barrel is empty. With the screw fully forward, I rely on screw rotation (not high-speed), until there is no melt stream coming out of the nozzle.\n\n
+        &#8226;<b>d. </b>With the hopper and barrel empty, pull the screw back without rotation and check all the feed flights you can see. That is, pull the screw back as far as possible while looking down the feed throat (with proper eye protection). Do this in increments if working alone. If there is any melted or solidified material sticking to flights in the feed zone, you probably have a leaking check valve. There should be no melted material on these flights. Clean any melted or solidified material off with a plastic rod, tube, or (second best) a wooden dowel. Please don’t use metal. The screw needs to be smooth and scratch-free to work properly. Plastic should stick to the barrel and slip off the screw if things are working properly.\n\n
+        &#8226;<b>e. </b>Add the purging compound of your choice, rotating the screw until it backs up to about 25% of the barrel capacity. If there is too much backpressure to allow the screw to back up, lower the backpressure or use manual decompression to do this in increments.\n\n
+        &#8226;<b>f. </b>Let it sit for a few minutes.\n\n
+        &#8226;<b>g. </b>Purge the purging compound.\n\n
+        &#8226;<b>h. </b> If introducing a new material, adjust temperatures as required.\n\n
+        &#8226;<b>i. </b>When at the new temperatures, feed another 25% of the barrel with purging compound.\n\n
+        &#8226;<b>j. </b>Purge the barrel until empty.\n\n
+        &#8226;<b>k. </b>Start feeding the new material—use 100% regrind if available—to 25-50% of the barrel capacity.\n\n
+        &#8226;<b>l. </b>Purge until empty.\n\n
+        &#8226;<b>m. </b>Build shot size for the new material.\n\n
+        &#8226;<b>n. </b>Adjust backpressure to 750-1000 psi (50-70 bar) plastic pressure, providing this is appropriate for the resin you are working with.\n\n
+        &#8226;<b>o. </b>Start shooting plastic into the mold with first-stage injection only (hold pressure very low…near zero). Again, use 100% regrind if possible.\n\n
+        &#8226;<b>p. </b>Adjust screw rpm to provide a reasonable recovery time.\n\n
+        &#8226;<b>q. </b>If all is OK, add hold pressure for the next shot.\n\n
+        &#8226;<b>r. </b>As you are making parts with 100% regrind or prime material, vary backpressure from very low to high, up and down, as the screw turns on one shot.\n\n
+        &#8226;<b>s. </b>On the next shot, adjust injection speed to as fast as you are comfortable with, make a shot and vary screw rpm from low to high.\n\n
+        &#8226;<b>t. </b>Repeat the two previous steps two or three times, starving the screw periodically to allow the screw to rotate without building a shot. Vary injection speed, screw rpm, and backpressure. Do not keep the hopper full; hand-feed if necessary.\n\n
+        &#8226;<b>u. </b>Drain the hopper if you were working with 100% regrind, clean if necessary.\n\n
+        &#8226;<b>v. </b>Add production-quality resin—100% virgin or appropriate ratio of virgin and regrind.\n\n
+        &#8226;<b>w. </b>Set backpressure to your requirements.\n\n
+        &#8226;<b>x. </b>Adjust screw rpm to take all but 2 sec of cooling or mold-closed time on normal cycles. For fast cycles, adjust this timer to ensure the cycle is determined by the timers, not screw-recovery variances. Remember, you cannot set screw-recovery time. It will vary during production.\n\n
+        &#8226;<b>y. </b>If you have a hot runner that is contaminated or releasing black specks, try a purging compound specifically made for hot runners and raise the tip temperatures about 50° F (25° C), providing the resin can handle this higher temperature.\n\n
+        &#8226;<b>z. </b>Say your prayers and check the parts. Ideally, our nefarious friend “Murphy” fell asleep during your purging process and you have a clean changeover. If parts show problems such as black specks, contamination, etc., you will have to make a decision to keep purging or pull the screw. No easy answer here.\n\n
+        Bottom line: Look at the time and resin costs for color and material changeovers. Would you be better off if you found a better way? Even if it is not your money, how about the time and hassle you put in? Talk to your manager, ask the embarrassing question: Is the above factored into the “just-in-time inventory” strategy of your plant?\n\n
+    </string>
+    <string name="purging_credits">Article accessed from https://www.ptonline.com/articles/purging-a-to-z\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="shutdown_title">Fundamentals of Proper Press Shutdown</string>
+    <string name="shutdown_text"><i>Written by Garrett Mackenzie</i>\n\n
+        In the fast-paced world of injection molding, the key drivers of a plant’s profits are downtime, efficiencies and scrap. A company’s success relies heavily upon quick and efficient startups. Elimination and avoidance of unplanned downtime events also plays a critical part in profitability.\n\n
+        Press shutdown procedures have a significant effect on achieving smooth machine startups and restarts. Moreover, presses shut down poorly quite often lead to process failures and downtime. This article will outline potential downtime events that have a direct relationship with poorly performed press stops. It will also provide a solid approach based on time that will help to reduce, and in most cases eliminate, scrap and downtime associated with press shutdown.\n\n
+        <b>Screw failures</b>\n
+        A poor approach to screws is frequently the cause of unneeded downtime and failed startups. Shutting down without running the screw dry can lead to feed-throat bridging, which can require hours of servicing to remove melted plastic from the throat.\n\n
+        <b>Presses shut down poorly quite often, leading to process failures and downtime.</b>\n\n
+        Leaving the carriage forward for long periods of time can lead to nozzle drool and material blowback on restart. Any time a press is shut down, it is wise to back the carriage off, remove material from the barrel, and retract the screw 1 in. to release pressure and help prevent drooling. At this point, the sprue bushing should be inspected and cleaned in preparation for restart.\n\n
+        The nature of some materials, such as nylon, acetal and PVC, may require purging the screw with an inert material like PP, PS or a purge compound to prevent degradation. Over time, that degraded material can cause screw and/or tip breakage, and even lock up the screw and barrel. That could ultimately necessitate replacement of both. It goes without saying that the costs and downtime associated with these types of repairs can be astronomical.\n\n
+        <b>Hot-runner approach</b>\n
+        Hot-runner care is crucial for mold-damage prevention. Hot runners that are left on for extended periods of time can perform poorly due to overbaked and/or degraded materials. In the case of polycarbonate, long heat exposure can cause contamination issues that lead to huge scrap events. High fiberglass content left in the hot runner can lead to plugged drops. Any one of these situations can lead to extra mold changes and unplanned mold maintenance.\n\n
+        <b>Hot runners that are left on for extended periods of time can perform poorly due to overbaked and/or degraded materials.</b>\n\n
+        <b>Mold shutdown</b>\n
+        Any time mold activity goes idle, it is time for mold inspection and care. Slide slots and ejector/ guide pins should be inspected for damage, galling, and lubrication. In-press mold storage is vital if the press is to be down for the longer term. The mold should be left with mold halves touching but not under pressure.\n\n
+        <b>Water shortfalls</b>\n
+        Water shutdown is crucial to downtime and damage prevention. Long-term shutdowns can lead to unnoticed leaks. When a mold isn’t moving, water performance changes. This type of leak can lead to rust, which forces a mold to be pulled for service. Rust on a textured surface can cost thousands in tool repair and downtime.\n\n
+        <b>Three-stage shutdown process</b>\n
+        The following procedures outline proper purging and shutdown of presses. There are three basic time frames that should determine the technician’s actions. These procedures have been developed based on using materials such as nylon. The purpose here is to reduce the number of purge approaches, while also instilling good shutdown habits. The cost of extra purge puddles is much cheaper than the cost of machine or mold repair and downtime associated with poor shutdown practices.\n\n
+        <b>If the press will be down for 30 min or less:</b>\n
+        &#8226;Retract carriage to separate tip from bushing.\n
+        &#8226;Inspect tip for blowback.\n
+        &#8226;Run screw forward to remove shot from barrel.\n
+        &#8226;With screw empty, suck screw back 1 in.\n
+        &#8226;Remove purge from press bed.\n\n
+        <b>If downtime length is unknown or longer than 30 min but less than 4 hr:</b>\n
+        &#8226;Retract carriage to separate tip from bushing.\n
+        &#8226;Inspect tip for blowback.\n
+        &#8226;Purge throat and barrel completely dry with polypropylene.\n
+        &#8226;With screw empty, suck screw back 1 in.\n
+        &#8226;Shut off hot runner.\n
+        &#8226;Remove purge from press bed.\n\n
+        <b>If downtime will be 4 hr or full shift:</b>\n
+        &#8226;Retract carriage to separate tip from bushing.\n
+        &#8226;Inspect tip for blowback.\n
+        &#8226;Purge throat and barrel completely dry with PP.\n
+        &#8226;With screw empty, suck screw back 1 in.\n
+        &#8226;Shut off hot runner.\n
+        &#8226;Spray mold lightly with rust preventative.\n
+        &#8226;Close mold, not under tonnage, with mold faces touching\n
+        &#8226;Shut off water at main valves.\n
+        &#8226;Remove purge from press bed.\n\n
+        <b>Weekend shutdown:</b>\n
+        &#8226;Retract carriage to separate tip from bushing.\n
+        &#8226;Inspect tip for blowback.\n
+        &#8226;Purge throat and barrel completely dry with PP.\n
+        &#8226;With screw empty, suck screw back 1 in.\n
+        &#8226;Shut off hot runner.\n
+        &#8226;Spray mold with rust preventative.\n
+        &#8226;Close mold, not under tonnage, with mold faces touching.\n
+        &#8226;Shut off water at main valves.\n
+        &#8226;Bank dryer at 100 F.\n\n
+    </string>
+    <string name="shutdown_credits">Article accessed from https://www.ptonline.com/blog/post/fundamentals-of-proper-press-shutdown\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="maintenance_title">Focus on these Seven Areas to Set a Preventive Maintenance Schedule</string>
+    <string name="maintenance_text"><i>Written by Garrett Mackenzie</i>\n\n
+        It is impossible to mold parts without a working injection machine. This is something that molders can state with absolute clarity. Yet, there are still many companies that follow a “run-parts-until-the-machine-breaks-down” approach. The question we must ask ourselves is why?\n\n
+        Unplanned maintenance is costly. In these instances, the discussion and development of repair plans occurs with the press sitting idle. Replacement parts need to be located, assuming they are in-house at all. If no replacement parts are available, searching for and ordering components from part vendors becomes necessary. Then, if production demands it, delivery of those parts may need to be expedited, at a hefty cost.\n\n
+        Looming in the distance is the potential that your interruption could cause a shutdown at the customer. Will we have to perform an unscheduled mold change if we have another press available? Doing so could be incredibly costly in terms of time and money.\n\n
+        Preventive maintenance schedules do not have to be cumbersome. The maintenance department is certainly busy, but there are some fundamental steps of inspection. Once implemented, preventive inspections reduce downtime and the costs associated with unplanned events. This article will outline five key systems that require regular review for wear and disrepair.\n\n
+        <b>1. Hydraulic Oil</b>\n
+        Hydraulic-oil levels and oil integrity are key to proper machine function. Low oil can lead to poor machine performance and pump breakdowns. Oil levels should be checked weekly to ensure oil level is correct and consistent. Beyond that, send oil samples to the lab every four months to verify oil cleanliness and performance.\n\n
+        <b>The screw should be pulled once a year to inspect the shank, flights and barrel I.D. against the screw manufacturer’s recommended dimensional requirements.</b>\n\n
+        <b>2. Screw &amp; Barrel</b>\n
+        Screw and barrel performance is critical to standardized processes. Verify that fill time, cushion, screw recovery and peak pressures remain consistent. Fluctuations in key process-control variables can be a sign of a wearing barrel, screw or check ring. The screw should be pulled once a year to inspect the shank, flights and barrel inner diameter against the screw manufacturer’s recommended dimensional requirements.\n\n
+        <b>3. Heater Bands</b>\n
+        Heater-band performance is crucial to press operation and a repeatable process. Remove the guard to inspect heater performance using a meter with a steel temperature probe. Monitor temperature fluctuations and average steel temperature across all bands. Measuring continuity of a band does not always reveal a poorly performing band. Also look for wires that can get “dipped” during purge events to prevent unneeded band changes.\n\n
+        <b>4. Heat Exchanger</b>\n
+        The heat exchanger controls oil temperature. It’s imperative that it be kept in good working condition to avoid oil overheating, which can lead to o-ring and seal failures. It is good practice to descale the heat exchanger annually with a mild acid wash to prevent scale buildup. Do a bench inspection of the coils to assure they are not wearing out. Coil failures can lead to water being mixed in the oil.\n\n
+        <b>5. Electrical Cabinet</b>\n
+        Poor cabinet conditions can lead to electrical failures or fires. Keep the cabinet free of debris and oil. Clean and inspect fan assemblies to keep the cabinet cool. Wipe down circuit boards with a dry cloth. Check the tightness of terminals, while inspecting for signs of burning or arcing.\n\n
+        <b>6. Hydraulic Assemblies</b>\n
+        Hydraulic pumps, valves and hoses are key components of press function, and should be inspected frequently for signs of leaks. Keep hydraulic assemblies and areas clean and free of leaking oil and debris to help pinpoint valves showing signs of worn o-rings. Inspect hoses for signs of wear and weeping. Inspect hose couplings for signs of damage, leaking and tightness. Take time to listen to the pumps as they run. Any strange sounds may need to be noted and investigated further.\n\n
+        <b>Applying these benchmarks can reduce the frequency of unplanned downtime, increase the productivity of your operation and raise your profit margins.</b>\n\n
+        <b>7. Platen Components</b>\n
+        Platen condition and functionality are paramount to setup and processing requirements. Platen holes should be routinely inspected for damage. Holes should be re-tapped to recondition the threads. Stripped platen holes should be clearly marked with a paint marker to be added to planned maintenance. Stone the platens between mold changes to keep them free of burrs.\n\n
+        Regularly inspect bushings, tiebars and linkages for proper behavior and operation. Any signs that the lubrication system is not operating properly should be addressed quickly to prevent components from wearing or breaking prematurely.\n\n
+        Preventive-maintenance inspections do not have to be complex to provide beneficial effects to your overall maintenance approach. Applying the benchmarks noted above can not only reduce the frequency of unplanned downtime. It can increase the productivity of your operation and raise your profit margins.\n\n
+    </string>
+    <string name="maintenance_credits">Article accessed from https://www.ptonline.com/articles/focus-on-these-seven-areas-to-set-a-preventive-maintenance-schedule\n
+        © 2021 Gardner Business Media, Inc.
+    </string>
+
+    <string name="defects_solutions_title">Possible Defect Causes &amp; Solutions</string>
+    <string name="defects_solutions_text"><b>Splay</b>\n\n
+        Causes: It generally occurs when a hygroscopic material has not been dried properly before the medical molding process.\n
+        Remedy: Conduct a moisture analysis to verify that your dryer is functioning properly (note that moisture can compromise a material’s properties). We strongly recommend conducting a moisture analysis at the start of every production run or if splay occurs.\n\n
+        <b>Flow Lines</b>\n\n
+        Causes: Flow lines are caused by the varying speeds at which molten plastic flows when going around a part’s geometry. The disruption in the flow causes the plastic to solidify inconsistently. Note that the cooler the material, the longer the flow lines.\n
+        Remedy: You may need to increase the temperature of the mold and / or press to increase flow. Other remedies include increasing the injection speed and pressure.\n\n
+        <b>Weld lines (knit lines)</b>\n\n
+        Causes: Weld lines occur when an obstruction forces the plastic flow front to split and reknit again. If the plastic material doesn’t quickly reknit, the weld line will be more apparent.\n
+        Remedy: Be mindful of viscous plastics since their low melting points make them prone to weld lines. Increasing the injection speed at 10% increments as well as the temperature of the mold and / or press also helps. In addition, consider addressing your gate positions.\n\n
+        <b>Flash</b>\n\n
+        Causes: Flash is caused by plastic escaping from the mold cavity through a mold’s parting line, insert line or pin holes. This can be due to excess injection pressure or low clamp pressure (which keep both Part A and Part B together).\n
+        Remedy: Avoid overpacking the mold cavity and make sure the clamp pressure is strong. Also try to reduce your injection pressure and stay within the process window. Reducing the cycle time and barrel temperature can help lower the plastic’s viscosity.\n\n
+        <b>Jetting</b>\n\n
+        Causes: Jetting results from plastic being pushed at a high velocity through tight areas in the mold without making contact with the walls. This can be due to excessive injection speeds, low mold temperature and improper gating.\n
+        Remedy: Optimize the plastic’s speed and gating for a consistent flow. Consult with a material supplier for a mold temperature that will facilitate a proper flow.\n\n
+        <b>Sink Marks</b>\n\n
+        Causes: Sinks marks are caused by differential cooling in the thicker wall sections, inadequate pressure in the mold or improper wall sections for protrusions on the part.\n
+        Remedy: Sink marks can generally be avoided with a part design that accounts for wall thickness (thicker ones have a longer cooling time). We recommend having a proper wall section to rib section ratio since protrusions in the mold tend to leave sink marks. Also consider increasing the holding time and lowering the mold temperature so the part can cool properly.\n\n
+        <b>Vacuum Voids</b>\n\n
+        Causes: Vacuum voids can be traced back to your wall sections. A mold’s steel is cooler than the molten plastic material, which creates a void because the outside is cooling faster than the inside.\n
+        Remedy: Increase the holding pressure and time so that the molten plastic can align with the mold’s walls.\n\n
+        <b>Short Shots</b>\n\n
+        Causes: Molten plastic will naturally flow along a path of least resistance. However, it will stop at thinner sections if the holding pressure is too low. Low process parameters can also result in shorting.\n
+        Remedy: Have your plastic material undergo a validation process to ensure proper flow. Increasing the mold and / or press temperature, accounting for gas generation and increasing the material feed can also prevent short shots. Thin walled sections will need a material with increased flowability versus a thick walled section, which will work better with a stiffer material.\n\n
+        <b>Warping</b>\n\n
+        Causes: Warping can be caused by inadequate injection pressure, a low nozzle temperature, inadequate gating and issues with material flow. Note that warping generally occurs during cooling.\n
+        Remedy: Try to increase the cooling time to reduce residual stresses on the part and ensure the plastic is flowing in one direction so its molecules align. Proper gate positioning will also help with alignment. In addition, installing a nominal wall throughout your part will help the plastic cool consistently.\n\n
+        <b>Burn Marks</b>\n
+        Causes: Burn marks are caused by fast injection speeds, excessive heating and improper venting. Fast injections speeds and excessive heating without proper venting trap gases in the molding, causing the plastic to overheat and burn.\n
+        Remedy: Reduce the temperature of the mold and injection speed. Add additional venting and clean your vents regularly to prevent blockage.\n\n
+        <b>Surface Delamination</b>\n\n
+        Causes: Surface delaminations can occur if the molten material has cooled too fast while moving through the mold, hence forcing the plastic layers to solidify before they can fuse together. ­­­­­Material handling issues can also cause surface delaminations by allowing foreign material to enter the mold. The foreign material’s inability to properly bond to the plastic material can result in delaminations.\n
+        Remedy: Recheck your mold’s gating and reduce sharp turns in the part design; sharp turns can disrupt the mold flow and cause shearing. Confirm that the drying times and mold temperatures have been optimized for your plastic. You can also try increasing the injection speed at 2% increments. Lastly, check for contaminants in your plastic supply.\n\n
+    </string>
+    <string name="defects_solutions_credits">Examples accessed from https://eirmed-devices.com/overcoming-common-medical-injection-molding-challenges/\n
+        © 2021 - EirMed™
+    </string>
+
+    <!--Defects Items-->
+    <string name="defects_heading">Injection Molding Defects</string>
+    <string name="defects_title"><b>Cosmetic injection molding defects</b>\n</string>
+    <string name="defects_cosmetic">Cosmetic challenges generally do not affect the structural integrity of a part. However, they do affect the part’s aesthetics.\n\n</string>
+    <string name="defects_splay"><b>Splay</b>\n Splay is a common cosmetic defect that comes in the form of silver / white streaks on a part’s surface.\n\n</string>
+    <string name="defects_flow"><b>Flow lines</b>\n Flow lines are streaks, patterns, circular ripples or lines that occur on the surface of a part.\n\n</string>
+    <string name="defects_weld"><b>Weld lines (knit lines)</b>\n Weld lines form on the surface of a part where two flow fronts meet. They tend to be the weakest point on a part since the two fronts were unable to “knit” back together properly.\n\n</string>
+    <string name="defects_flash"><b>Flash</b>\n Flash takes on the form of thin plastic layers that have hardened outside of where the mold’s two halves (Part A and Part B) meet. You should fix flash immediately because it will damage your tool if it occurs over several cycles.\n\n</string>
+    <string name="defects_structural"><b>Structural Defects</b>\n</string>
+    <string name="defects_structural_desc">Unlike cosmetic challenges, structural challenges can seriously compromise the integrity of a part and render them unusable.\n\n</string>
+    <string name="defects_jetting"><b>Jetting</b>\n Jetting comes in the form of a buckled, “snakelike” stream. It can lead to part weakness and internal defects.\n\n</string>
+    <string name="defects_sink"><b>Sink marks</b>\n Sink marks result from shrinkage in the thicker sections of a mold and appear as depressions on the part.\n\n</string>
+    <string name="defects_vacuum"><b>Vacuum voids</b>\n Vacuum voids are bubbles within a part that can weaken its integrity. They result from trapped air or differential shrinking.\n\n</string>
+    <string name="defects_short"><b>Short shots</b>\n Short shots occur fairly often during a first run. As their name suggests, they are areas of the part where the plastic material has come short, leaving missing elements in the final part. They can also be an extension of flow lines and knit lines.\n\n</string>
+    <string name="defects_warp"><b>Warping</b>\n Warping is a dimensional deformation that results from uneven plastic shrinkage. Semi-crystallines are more likely to warp since they have specific cooling times. Note that glass-filled materials have a tendency to warp more than unfilled materials.\n\n</string>
+    <string name="defects_burn"><b>Burn marks</b>\n As the name suggests, burn marks are literally burns that occur on the surface of a part. They generally appear in blind pockets or at the end of the flow path.\n\n</string>
+    <string name="defects_delam"><b>Surface delamination</b>\n Surface delaminations are flake-like layers on a part’s surface that can reduce its strength.\n\n</string>
+    <string name="defects_credits">Examples accessed from https://eirmed-devices.com/overcoming-common-medical-injection-molding-challenges/\n © 2021 - EirMed™</string>
+
+
+    <!--Calculation Items-->
+    <string name="production_rate_sub">
+        Production Rate Calculator
+    </string>
+    <string name="production_rate_desc">
+        Use this calculator to find the number of parts produced per hour given cycle time &amp; number of cavities in the mold.\n\n
+        Reduce the cycle time by just 1 second to see how many more parts can be made per hour. The more parts made per hour the lower the part cost.
+    </string>
+
+    <string name="production_time_sub">
+        Production Time Calculator
+    </string>
+    <string name="production_time_desc">
+        Use this calculator to find the time required to complete a production run given the part quantity, cycle time &amp; number of cavities in the injection mold.
+    </string>
+
+    <string name="material_required_sub">
+        Material Required Calculator
+    </string>
+    <string name="material_required_desc">
+        Use this calculator to not only find out quantity of material required to produce a given number of parts  but also to work out material savings when comparing a hot runner mold to a cold runner mold.
+    </string>
+
+    <string name="shot_weight_sub">
+        Shot Weight Calculator
+    </string>
+    <string name="shot_weight_desc">
+        Use this calculator to find the amount of material required for each cycle given the part weight, runner weight and number of cavities in the mold. If using hot runner mold or insulated slug runner make runner weight 0.
+    </string>
+
+    <string name="volume_sub">
+        Volume Calculator
+    </string>
+    <string name="volume_desc">
+        Use this calculator to find the volume of your production run divided by various time limits.
+    </string>
+
+    <!--RecyclerView List Items-->
+    <string-array name="main_titles">
+        <item>Operator</item>
+        <item>Process Technician</item>
+        <item>Material Handler</item>
+        <item>Calculators</item>
+    </string-array>
+
+    <string-array name="operator_titles">
+        <item>Defects</item>
+        <item>Cleanroom Environment</item>
+        <item>Operator Safety</item>
+    </string-array>
+
+    <string-array name="calculator_titles">
+        <item>Production Rate</item>
+        <item>Production Time</item>
+        <item>Material Required</item>
+        <item>Shot Weight</item>
+        <item>Volume</item>
+    </string-array>
+
+    <string-array name="proctech_titles">
+        <item>Defects Solutions</item>
+        <item>Water Flow Table</item>
+        <item>Tips &amp; Learning</item>
+    </string-array>
+
+    <string-array name="proctech_tip_titles">
+        <item>Nozzle Body &amp; Tip</item>
+        <item>Feed-Throat Temp Control</item>
+        <item>Scientific Molding</item>
+        <item>Barrel Zone</item>
+        <item>Gate Seal</item>
+        <item>Cycle Optimization</item>
+        <item>Purging</item>
+        <item>Polymer Flow</item>
+        <item>Shutdown Fundamentals</item>
+        <item>Preventive Maintenance Schedule</item>
+    </string-array>
+
+    <string-array name="mathandler_titles">
+        <item>Learning Center</item>
+        <item>Drying Temperature Table</item>
+    </string-array>
+
+    <string-array name="mathandler_learning_titles">
+        <item>Drying</item>
+        <item>Pellet Size &amp; Shape</item>
+    </string-array>
+
+    <string-array name="main_description">
+        <item>Learn about defects, cleanroom environment procedures and safety measurements of operating a machine</item>
+        <item>Check possible defect solutions and get useful tips for processing</item>
+        <item>Learn more about material drying and temperatures</item>
+        <item>Use various calculation tools helpful for injection molding operations</item>
+    </string-array>
+
+    <string-array name="operator_description">
+        <item>Learn about possible defects with photos, possible causes and solutions</item>
+        <item>Learn about the cleanroom environment</item>
+        <item>Learn about workplace safety measures when operating a machine</item>
+    </string-array>
+
+    <string-array name="proctech_description">
+        <item>Get tips on possible defects solutions</item>
+        <item>Check the water flow temperature with this useful sheet</item>
+        <item>Get some useful tips about various situations to gain more efficiency</item>
+    </string-array>
+
+    <string-array name="proctech_tips_description">
+        <item>Pay Attention to Your Nozzle Body &amp; Tip</item>
+        <item>It\'s the \'zone zero\' for injection molding</item>
+        <item>What is Scientific Molding? And why do molders seem to have such a difficult time embracing its concepts? Here are some thoughts on the matter</item>
+        <item>Take the time to do the viscosity curve on new molds. You will learn more in that hour than many learn in years about the process for this tool</item>
+        <item>Start by picking a target melt temperature, and double-check data sheets for the resin supplier’s recommendations. Now for the rest…</item>
+        <item>Follow these 16 steps to perform the experiment and learn what is best for your part and process</item>
+        <item>It is possible for machines to run too fast, so find the sweet spot where maximum output overlaps with good parts</item>
+        <item>Use these steps as a guide to minimize the time and money it takes to switch materials and color on your presses</item>
+        <item>Press shutdown procedures have a significant impact on achieving smooth machine startups and restarts to improve uptime</item>
+        <item>A useful checklist for performing fundamental maintenance inspections and assuring press longevity and process stability</item>
+    </string-array>
+
+    <string-array name="mathandler_description">
+        <item>Learn some interesting and useful information about the drying process and pellet size and shape importance</item>
+        <item>Check this cheatsheet for determining the optimal drying temperature for your material</item>
+    </string-array>
+
+    <string-array name="mathandler_learning_description">
+        <item>Drying tips: A dozen details you should know</item>
+        <item>Uniformity is needed to help ensure melt quality</item>
+    </string-array>
+
+
+    <!--Images for RecyclerView Items-->
+    <array name="main_images">
+        <item>@drawable/operator</item>
+        <item>@drawable/proctech</item>
+        <item>@drawable/mathandler</item>
+        <item>@drawable/calculators</item>
+    </array>
+
+    <array name="operator_images">
+        <item>@drawable/defects</item>
+        <item>@drawable/cleanroom</item>
+        <item>@drawable/safety</item>
+        <item>@drawable/cleanroom</item>
+    </array>
+
+    <array name="calculator_images">
+        <item>@drawable/production_rate</item>
+        <item>@drawable/production_time</item>
+        <item>@drawable/material_required</item>
+        <item>@drawable/shot_weight</item>
+        <item>@drawable/volume</item>
+    </array>
+
+    <array name="proctech_images">
+        <item>@drawable/defect_solutions</item>
+        <item>@drawable/waterflow</item>
+        <item>@drawable/tips</item>
+    </array>
+
+    <array name="mathandler_images">
+        <item>@drawable/learning_center</item>
+        <item>@drawable/drying_table</item>
+    </array>
+
+    <array name="mathandler_learning_images">
+        <item>@drawable/drying</item>
+        <item>@drawable/pellet</item>
+    </array>
+
+    <array name="proctech_tips_images">
+        <item>@drawable/nozzle</item>
+        <item>@drawable/feed_throat</item>
+        <item>@drawable/scientific_molding</item>
+        <item>@drawable/barrel_zone</item>
+        <item>@drawable/gate_seal</item>
+        <item>@drawable/cycle_optimization</item>
+        <item>@drawable/purging</item>
+        <item>@drawable/polymer_flow</item>
+        <item>@drawable/shutdown</item>
+        <item>@drawable/maintenance</item>
+    </array>
+</resources>

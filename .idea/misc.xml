@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/drawable/border.xml" value="0.2890625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/barrel_zone_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/calculators_activity.xml" value="0.90625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/cleanroom_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/cycle_optimization_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/defects_activity.xml" value="0.16477987421383647" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/defects_solutions_activity.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/defects_table_activity.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/drying_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/drying_temp_activity.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/feed_throat_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/gate_seal_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/learning_center_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/list_item.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/maintenance_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/material_required_activity.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/mathandler_activity.xml" value="0.6266447368421053" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/nozzle_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/operator_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/pellet_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/polymerflow_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/proctech_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/production_rate.xml" value="0.13272543059777103" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/production_rate_activity.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/production_time_activity.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/purging_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/safety_activity.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/scientific_molding_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/shot_weight_activity.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/shutdown_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/splash_activity.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/tips_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/volume_activity.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/layout/waterfow_activity.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/InjPlastApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

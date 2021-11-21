@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main.calculators.MaterialRequired">
+
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="@string/volume_sub"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+
+    <TextView
+        android:id="@+id/desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/heading"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/volume_desc"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/cycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/desc"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Cycle time:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/efficiency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cycle"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Efficiency (%):"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/cavity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/efficiency"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Mold cavitation:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/production"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cavity"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Production hours/day:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/minutes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/production"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Parts/min:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/hourly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/minutes"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Parts/hour:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/daily"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hourly"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Parts/day:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/weekly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/daily"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Parts/week:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/monthly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/weekly"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Parts/month:"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/yearly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/monthly"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Parts/year:"
+        android:textSize="16sp" />
+
+
+    <EditText
+        android:id="@+id/cycleEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cycle"
+        android:layout_alignBottom="@+id/cycle"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/efficiencyEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/efficiency"
+        android:layout_alignBottom="@+id/efficiency"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/cavityEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/cavity"
+        android:layout_alignBottom="@+id/cavity"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/timeEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/production"
+        android:layout_alignBottom="@+id/production"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:ems="5"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/minuteResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/efficiencyEdit"
+        android:layout_alignTop="@+id/minutes"
+        android:text=""
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/hourlyResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/hourly"
+        android:layout_alignTop="@+id/hourly"
+        android:text=""
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/dailyResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/daily"
+        android:layout_alignTop="@+id/daily"
+        android:text=""
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/weeklyResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/weekly"
+        android:layout_alignTop="@+id/weekly"
+        android:text=""
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/monthlyResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/monthly"
+        android:layout_alignTop="@+id/monthly"
+        android:text=""
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/yearlyResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/yearly"
+        android:layout_alignTop="@+id/yearly"
+        android:text=""
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/efficiencyEdit"
+        android:layout_alignLeft="@+id/efficiencyEdit"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:text="Calculate" />
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/efficiencyEdit"
+        android:layout_alignRight="@+id/efficiencyEdit"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:text="Reset" />
+</RelativeLayout>

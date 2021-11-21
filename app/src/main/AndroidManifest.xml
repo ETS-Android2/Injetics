@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.seawayproject.injplastapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InjPlastApp"
+        android:screenOrientation="portrait">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:label="@string/app_title"
+            android:theme="@style/Theme.SplashTheme"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.Operator"
+            android:label="Operator"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.ProcessTechnician"
+            android:label="Process Technician"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.MaterialHandler"
+            android:label="Material Handler"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.Calculators"
+            android:label="Calculators"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.mathandler.LearningCenter"
+            android:label="Learning Center"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.mathandler.DryingTable"
+            android:label="Drying Temperature Table"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.operator.Cleanroom"
+            android:label="Cleanroom Environment"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.calculators.ProductionRate"
+            android:label="Production Rate"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.calculators.ProductionTime"
+            android:label="Production Time"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.calculators.MaterialRequired"
+            android:label="Material Required"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.calculators.ShotWeight"
+            android:label="Shot Weight"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.calculators.Volume"
+            android:label="Volume"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.operator.Defects"
+            android:label="Defects"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.operator.Safety"
+            android:label="Operator Safety"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.DefectSolutions"
+            android:label="Defects Solutions"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.Tips"
+            android:label="Tips &amp; Learning"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.Waterflow"
+            android:label="Water Flow Table"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.mathandler.learning.Drying"
+            android:label="Drying Tips and Details"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.mathandler.learning.PelletSize"
+            android:label="Pellet Size &amp; Shape"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.BarrelZone"
+            android:label="Barrel Zone"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.CycleOptimization"
+            android:label="Cycle Optimization"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.FeedThroat"
+            android:label="Feed-Throat Temp Control"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.GateSeal"
+            android:label="Gate Seal"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.Maintenance"
+            android:label="Preventive Maintenance Schedule"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.Nozzle"
+            android:label="Nozzle Body &amp; Tip"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.PolymerFlow"
+            android:label="Polymer Flow"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.Purging"
+            android:label="Purging"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.ScientificMolding"
+            android:label="Scientific Molding"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".main.proctech.tips.Shutdown"
+            android:label="Shutdown Fundamentals"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>
